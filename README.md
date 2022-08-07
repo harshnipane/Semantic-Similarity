@@ -11,3 +11,7 @@ This is a problem of Natural Language Processing (NLP) and before building any d
 - Bag of words
 - Converting words into vectors using Count Vectorization
 - Predicting score using Cosine Similarity
+- Creating web using flask
+## Screenshort
+
+![Screenshot (344)](https://user-images.githubusercontent.com/85990319/183284721-07b85d85-5efc-42f7-824b-8456b8cb90a1.png)
