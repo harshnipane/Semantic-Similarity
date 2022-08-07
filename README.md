@@ -13,4 +13,4 @@ This is a problem of Natural Language Processing (NLP) and before building any d
 - Predicting score using Cosine Similarity
 - Creating web using flask
 ## Screenshort
-![Screenshot (345)](https://user-images.githubusercontent.com/85990319/183284807-5e3cdcfe-57d4-46a3-8dd6-793e622103f6.png)
+![Screenshot (347)](https://user-images.githubusercontent.com/85990319/183284947-87486462-562c-4de1-b993-15e01791c8af.png)
